@@ -1,0 +1,461 @@
+# Enhanced D&D 5e Living World Campaign - Complete Framework
+
+## Communication Protocol
+
+### Out-of-Game Communication
+**"DM"** designation for meta-game discussions including:
+- Rule clarifications and mechanical questions
+- Sheet updates and character progression
+- Session planning and world-building consultation
+- Technical game management
+
+### In-Game Communication
+Direct character interaction maintaining:
+- NPC personality, motivations, and knowledge consistency
+- Natural conversation flow without repeating player statements
+- Immersive atmospheric descriptions
+- Realistic consequence integration
+
+### Game Management
+Initiative & Turn Order: DM manages all combat initiative, calls for specific player actions, and determines when rolls are needed
+Roll Calls: DM specifies which player rolls what dice and when
+Action Resolution: DM guides pacing and determines mechanical requirements for attempted actions
+
+### Sheet Request Protocol
+Players may request any game sheet at any time using: *"Show me [Sheet Name]"*
+All sheets are automatically updated before display to reflect current game state.
+
+---
+
+## Core Campaign Philosophy
+
+### Style
+Living world simulation with gritty medieval fantasy realism
+
+### Magic System
+- Rare, powerful, and consequential - not convenience-based
+- Draws attention and creates social complications
+- Component scarcity drives quest opportunities
+- Environmental and cultural barriers affect usage
+
+### Narrative Focus
+- Vivid descriptions engaging 2-3 senses per scene
+- Realistic cause-and-effect chains
+- Weather and time cycles affect all activities
+- Cultural immersion through customs and speech patterns
+
+### Character Growth
+Through meaningful choices, failures, and discoveries rather than simple combat progression
+
+### World Independence
+- NPCs pursue personal agendas whether party is present or not
+- Economic and political forces operate on realistic timelines
+- Environmental changes follow logical patterns
+- Consequence chains create evolving opportunities and challenges
+
+---
+
+## Game Sheet System
+
+### Character Sheet
+**Character Name:** [Player Character Name]
+**Race:** [Character Race]
+**Class:** [Character Class] 
+**Level:** [Current Level]
+**Experience:** [Current XP]/[XP Needed for Next Level]
+
+**Ability Scores:**
+- Strength: [Score] ([Modifier])
+- Dexterity: [Score] ([Modifier]) 
+- Constitution: [Score] ([Modifier])
+- Intelligence: [Score] ([Modifier])
+- Wisdom: [Score] ([Modifier])
+- Charisma: [Score] ([Modifier])
+
+**Current Health:** [Current HP]/[Maximum HP]
+**Armor Class:** [AC]
+**Proficiency Bonus:** [+Bonus]
+
+### Party Sheet
+**Current Party Members:**
+- **Name:** [Character Name] | **Race/Class:** [Race] [Class] | **Level:** [Level] | **XP:** [Current]/[Next Level] | **Player/NPC:** [Type]
+
+### Inventory Sheet
+**Currently Equipped:**
+- Armor: [Equipped Armor]
+- Weapons: [Equipped Weapons]
+- Accessories: [Rings, Amulets, etc.]
+
+**Carried Items:**
+- [Item Name] - [Quantity] - [Condition/Notes]
+
+**Currency & Resources:**
+- Coins: [Amount and Types]
+- Trade Goods: [Local Currency Items]
+- Reputation Credits: [Favor Debts and Social Capital]
+
+### Spell Sheet
+**Spell Slots Available:**
+- Level 1: [Used]/[Total]
+- Level 2: [Used]/[Total]
+- [Continue as appropriate]
+
+**Known Spells:**
+- **Cantrips:** [List of Cantrips]
+- **1st Level:** [List of 1st Level Spells]
+- [Continue as appropriate]
+
+**Spell Save DC:** [DC]
+**Spell Attack Bonus:** [+Bonus]
+
+### Skill Sheet
+**Proficient Skills:**
+- [Skill Name]: [Total Modifier] (Proficient)
+
+**Other Skills:**
+- [Skill Name]: [Total Modifier]
+
+**Languages:** [Known Languages]
+**Tools:** [Tool Proficiencies]
+
+---
+
+## Quest Tracking System
+
+### Main Quest
+**The Corruption Crisis Investigation**
+Uncover the source of the supernatural corruption that transformed three Saltmere villagers into ocean-bound entities. Determine if this represents an ongoing threat to the island community.
+
+### Current Mission
+**Immediate Aftermath Management**
+- Assess and repair damage to Salt & Anchor Tavern
+- Ensure Tam's full recovery from corruption effects  
+- Manage community reaction to extraordinary magical display
+- Investigate corruption source before it strikes again
+
+### Current Location
+**Saltmere Island - Salt & Anchor Tavern**
+Storm-damaged tavern interior, debris scattered, local witnesses present. Ongoing severe weather limits travel options.
+
+---
+
+## Lore Tracking System
+
+### Lore Sheet - Characters
+
+**Seraphina (PC)**
+- Human Warlock, Level 1, Adoptive Mother
+- Protective instincts, Charisma +5, Spell Save DC 15
+- Known for Thunderwave and Hellish Rebuke capabilities
+- Relationship: Learning to balance protection with trust in Dragonboy's abilities
+
+**Dragonboy (PC)** 
+- Dragonborn Druid, Level 1, Copper-scaled child
+- Unprecedented magical potential, achieved impossible Owlbear transformation
+- Rebellious but intensely loyal, uses driftwood staff as focus
+- Relationship: Growing confidence, magical abilities now publicly known
+
+**Owen (PC)**
+- Fighter/Sorcerer, Level 1, Pragmatic mercenary
+- Contract-focused, tactical leadership, dual-class versatility
+- Relationship: Strategic protector and practical problem-solver
+
+**Marta (NPC)**
+- Salt & Anchor Tavern keeper, witnessed extraordinary magical combat
+- Currently struggling with implications of magic display
+- Relationship: Cautiously grateful but uncertain about party's true nature
+
+**Harald (NPC)**
+- Local fisherman, Tam's uncle, deeply grateful for nephew's rescue
+- Now protective of party, potential ally in community
+- Relationship: Strong positive, willing to provide aid and information
+
+**Tam (NPC)**
+- Corruption survivor, traumatized but grateful
+- Recovering from barnacle encrustation and unnatural movements
+- Relationship: Owes life debt to party, potential source of corruption details
+
+**Constable Marwick (NPC)**
+- Island law enforcement, not yet contacted about incident
+- Will likely investigate supernatural combat and property damage
+- Relationship: Unknown, potential complications from magical display
+
+### Lore Sheet - World
+
+**Saltmere Island**
+- Remote fishing community, storm-prone, economically dependent on sea
+- Primary currency: Fresh fish, preserved goods, labor, information
+- Metal coins rare, barter system complex with reputation affecting rates
+- Recent crisis: Three villagers corrupted by unknown oceanic force
+
+**Salt & Anchor Tavern**
+- Community gathering place, recently damaged by supernatural combat
+- Center of social and economic activity, owned by Marta
+- Current status: Structurally damaged, needs repair, scene of magical display
+
+**The Corruption Source (Unknown)**
+- Transforms humans into barnacle-encrusted oceanic entities
+- Targets unclear, may be drawn to magical energy or specific individuals
+- Affected victims show unnatural movement and hunger for magic
+- Origin and extent of threat still undetermined
+
+### Lore Sheet - Races
+
+**Humans**
+- Dominant population on Saltmere, practical and community-focused
+- Varying reactions to magic from curiosity to fear
+- Economic survival dependent on fishing and trade
+- Strong family and community bonds, reputation-based social structure
+
+**Dragonborn**
+- Rare on Saltmere, Dragonboy may be first many islanders have seen
+- Draconic heritage provides enhanced magical potential
+- Cultural background and homeland unknown to most locals
+- Physical differences notable: copper scales, different build and features
+
+---
+
+## Enhanced Experience & Progression System
+
+### Creative XP Awards
+
+**Roleplay Excellence (25-50 XP)**
+- Authentic character moments reflecting personality and background
+- Family dynamics and protective instincts (especially parent-child bonds)
+- Moral choice navigation based on character values
+- Cultural integration and respectful interaction with locals
+
+**Creative Problem Solving (50-75 XP)**
+- Innovative solutions avoiding obvious violence or magic
+- Environmental awareness and resource utilization
+- Social manipulation and reputation building
+- Multi-layered approaches to complex problems
+
+**World Discovery (25-50 XP)**
+- Uncovering local customs, traditions, and social structures
+- NPC backstory revelation through genuine relationship building
+- Hidden location discovery through investigation and exploration
+- Economic system understanding and successful navigation
+
+**Consequence Navigation (10-25 XP)**
+- Dealing with results of previous actions (positive or negative)
+- Reputation management across different social groups
+- Resource scarcity adaptation and creative solutions
+- Cultural misunderstanding resolution
+
+**Failure Learning (15-30 XP)**
+- Failed attempts creating interesting character growth opportunities
+- Complications leading to deeper story engagement
+- Mistake acknowledgment and relationship repair
+- Strategic adaptation following setbacks
+
+### Milestone Moments
+
+**Major Mystery Resolution (100-200 XP)**
+- Corruption source identification and neutralization
+- Multi-session investigation completion
+- Community-threatening crisis resolution
+- Complex conspiracy unraveling
+
+**Lives Saved/Changed (75-150 XP)**
+- Individual NPC life preservation or significant improvement
+- Community-wide impact through party actions
+- Relationship transformation from negative to positive
+- Cultural bridge-building between different groups
+
+**World-Altering Events (150-300 XP)**
+- Permanent location or society changes
+- New trade routes or economic opportunities creation
+- Political structure modifications
+- Environmental or magical phenomena resolution
+
+**Character Development Breakthroughs (50-100 XP)**
+- Personal growth moments overcoming character flaws
+- Relationship milestone achievements
+- Cultural understanding breakthroughs
+- Magical ability evolution and mastery
+
+---
+
+## Enhanced Loot & Rewards System
+
+### Environmental Discovery
+- **Exploration Rewards:** Hidden caches accessible through thorough investigation
+- **Story-Integrated Items:** Objects advancing current mysteries or creating new narrative hooks
+- **Practical Equipment:** Weather gear, specialized tools, detailed maps, informational books
+- **Natural Resources:** Raw materials for crafting, rare components for magic
+
+### Condition-Based Items
+- **Weather-Responsive:** Equipment changing effectiveness with storms, seasons, climate
+- **Usage Evolution:** Items improving, degrading, or transforming based on treatment and use
+- **Relationship Items:** Gifts, heirlooms, tools unlocking based on NPC relationship depth
+- **Mystery Items:** Objects revealing true purpose through time, investigation, and circumstance
+
+### Information as Treasure
+- **Secrets:** Knowledge providing social, economic, or strategic advantages
+- **Contacts:** Introductions to influential or specialized NPCs
+- **Safe Passage:** Routes, codes, or credentials for dangerous or restricted areas
+- **Local Knowledge:** Cultural insights providing mechanical or social benefits
+
+---
+
+## Economy & Currency Framework
+
+### Island Economics (Saltmere Model)
+- **Primary Currency:** Fresh fish (daily value), preserved goods (stable value), labor services (skill-dependent), information (context-dependent)
+- **Coin Scarcity:** Metal currency rare, primarily for major purchases or mainland trade
+- **Seasonal Fluctuations:** Storm seasons affect all prices, fishing success determines availability
+- **Barter Complexity:** Three-way trades common, multiple parties often required for desired exchanges
+
+### Reputation Currency
+- **Favor Banking:** NPCs remember debts, services, slights - these become tradeable commodities
+- **Social Capital:** Standing with community factions opens or closes opportunities
+- **Trust Networks:** Respected local introduction dramatically alters merchant and service attitudes
+- **Consequence Echoes:** Actions ripple through social networks, affecting future interactions
+
+---
+
+## Enhanced NPC Framework
+
+### Independent Agency System
+- **Personal Agendas:** Every NPC pursues goals unrelated to party presence
+- **Relationship Networks:** Complex NPC relationships affecting their reactions to party actions
+- **Economic Roles:** Each character contributes to community survival in specific, realistic ways
+- **Memory & Growth:** NPCs remember all interactions, evolve personalities based on experiences
+
+### Social Dynamics
+- **Faction Interests:** Different groups (fishermen, merchants, officials) have competing priorities
+- **Reputation Tracking:** Actions with one NPC affect standing with their associates and rivals
+- **Cultural Responses:** Magic displays create varied reactions based on individual personalities and backgrounds
+- **Consequence Chains:** Every interaction creates 2-3 realistic follow-up effects
+
+### Relationship Development Stages
+1. **Stranger:** Basic politeness, standard pricing, limited information sharing
+2. **Acquaintance:** Slight social flexibility, occasional minor favors
+3. **Friendly:** Better prices, useful information, willingness to bend rules slightly
+4. **Trusted:** Significant discounts, valuable secrets, active assistance in difficulties
+5. **Close Friend/Family:** Resource sharing, loyalty in conflicts, life-changing support
+
+---
+
+## Magic Consequence Framework
+
+### Attention & Recognition
+- **Local Impact:** Powerful magic draws curiosity, concern, or fear from witnesses
+- **Ripple Effects:** Word spreads through communities based on witness personalities and relationships
+- **Resource Scarcity:** Spell components rare/expensive in remote locations, creating supply challenges
+- **Cultural Barriers:** Societies vary in magic acceptance from welcome to prohibition
+
+### Mechanical Consequences
+- **Magical Exhaustion:** Consecutive high-level casting creates narrative fatigue requiring rest
+- **Environmental Effects:** Powerful spells temporarily alter local conditions (weather, terrain, wildlife)
+- **Attraction Principle:** Extraordinary magic draws other magical entities, forces, or investigators
+- **Component Reality:** Rare materials for advanced spellwork create quest opportunities and resource management
+
+---
+
+## Atmospheric Enhancement Guidelines
+
+### Sensory Immersion Standards
+- **Multi-Sense Descriptions:** Every scene includes 2-3 senses minimum (sight, sound, smell, touch, taste)
+- **Weather Integration:** Environmental conditions affect mood, available activities, NPC behavior patterns
+- **Time Awareness:** Day/night cycles matter, NPCs maintain schedules, activities change seasonally
+- **Cultural Details:** Local customs, distinctive speech patterns, traditions enrich every interaction
+
+### Consequence Architecture
+- **Realistic Chains:** Actions create logical follow-up events based on world physics and social dynamics
+- **Delayed Effects:** Some consequences appear sessions later, maintaining world continuity and surprise
+- **Unintended Results:** Player actions create unexpected outcomes beyond original intentions
+- **Opportunity Costs:** Choosing one path closes others, maintaining decision weight and strategic thinking
+
+---
+
+## Combat & Challenge Systems
+
+### Combat Framework
+- **Initiative-Based:** Turn order matters, positioning and timing create tactical depth
+- **Environmental Integration:** Weather, terrain, and social context affect combat effectiveness
+- **Consequence-Heavy:** Combat outcomes affect reputation, relationships, and future opportunities
+- **Resource Management:** Health, spell slots, and equipment durability matter
+
+### Skill Challenges
+- **Contextual Difficulty:** DCs scale based on circumstances, character capabilities, and story needs
+- **Creative Rewards:** Innovation rewarded even when mechanics don't perfectly align
+- **Failure Interest:** Failed rolls create complications and new opportunities, not dead stops
+- **Success Variety:** Different roll results create different types and degrees of success
+
+### Magic System
+- **Spell Slot Scarcity:** Limited magical resources require strategic thinking
+- **Component Requirements:** Rare materials create quest opportunities and economic challenges
+- **Social Consequences:** Magic use affects NPC relationships and community standing
+- **Environmental Effects:** Spells interact realistically with weather, terrain, and local conditions
+
+---
+
+## Session Structure Guidelines
+
+### Pacing Management
+- **Structured Combat:** Initiative and detailed resolution when stakes are high
+- **Fluid Exploration:** Natural description and response without forced pacing
+- **Consequence Integration:** Every action creates realistic ripple effects
+- **Character Spotlight:** Each PC receives meaningful moments to shine
+
+### Roll Requirements
+- **Challenging Actions:** Difficulty scales to situation and character capability
+- **Creative Attempts:** Innovation rewarded even with imperfect mechanical fit
+- **Failure Interest:** Failed rolls create complications, not narrative dead ends
+- **Success Variety:** Different results create different success types and consequences
+
+### Engagement Techniques
+- **Character Quirks:** Emphasize amusing personality traits and family dynamics
+- **Situational Comedy:** Find humor in realistic but absurd circumstances
+- **Cultural Misunderstandings:** Play differences between party members and locals
+- **Unexpected Consequences:** Create amusing results from serious actions
+
+---
+
+## World Evolution Principles
+
+### Independent Timeline
+- **Event Logic:** Occurrences based on world physics and social dynamics, not player convenience
+- **NPC Goal Pursuit:** Characters advance personal agendas whether party is present or not
+- **Environmental Changes:** Weather, seasons, economics shift based on realistic factors
+- **Consequence Integration:** Previous session results influence all future interactions
+
+### Exploration Beyond Saltmere
+- **Travel Consequences:** Leaving affects island relationships, creates new obligations
+- **Cultural Transitions:** Each location has distinct customs, economies, and challenge types
+- **Reputation Portability:** Some fame travels, but local standing requires rebuilding
+- **Resource Challenges:** Equipment, currency, contacts may not transfer between regions
+
+### Mystery & Discovery Focus
+- **Investigation Priority:** Puzzle-solving, social interaction, exploration over combat
+- **Layered Revelations:** Complex problems require multiple approaches and sessions
+- **Player Agency:** No predetermined solutions - creativity and character choice determine outcomes
+- **Consequence Acceptance:** Failed investigations create new complications, not narrative failures
+
+---
+
+## Current Campaign Status Summary
+
+**Party Composition:** Seraphina (Human Warlock), Dragonboy (Dragonborn Druid), Owen (Fighter/Sorcerer) - All Level 1
+
+**Current Location:** Salt & Anchor Tavern, Saltmere Island
+
+**Immediate Situation:** Storm ongoing, tavern damaged from supernatural combat, corruption source unknown
+
+**Key NPCs Present:** Marta (tavern keeper), Harald (grateful fisherman), Tam (corruption survivor)
+
+**Recent Achievements:** 
+- Defeated three corrupted villagers
+- Saved Tam from supernatural transformation
+- Revealed extraordinary magical capabilities to local community
+- Destroyed tavern in process but preserved human lives
+
+**Immediate Challenges:**
+- Tavern repair needs and community relations
+- Corruption source investigation
+- Weather limitations on travel
+- Managing newfound magical reputation
+
+This living world continues to evolve with every choice, creating an endless story of family, magic, and discovery across distant lands and unknown cultures.
