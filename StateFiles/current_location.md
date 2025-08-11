@@ -1,170 +1,181 @@
 # Current Location - Saltmere Island
 
 ## Immediate Location
-**Building:** The Salt & Anchor Tavern (Heavily Damaged)  
-**Time:** Dawn, following The Hunger of the Depths battle  
-**Weather:** Storm breaking, first sunlight appearing  
+**Building:** Founders' Cave (Sacred Site)  
+**Time:** Dawn after the Final Compact ritual  
+**Weather:** Storm fully broken, morning sunlight emerging  
 **Date:** [Current Campaign Date]  
 
 ---
 
 ## Location Status
 
-### The Salt & Anchor Tavern
-**Structural Condition:**
-- Roof partially collapsed from tentacle strike
-- All windows shattered (Thunderwave and combat)
-- Main door destroyed, temporary barricade in place
-- Acid burns scarring wooden floors
-- Standing water throughout (receding)
-- Bar intact but water damaged
-- Kitchen partially functional
-- Upper rooms accessible but storm-damaged
+### Founders' Cave
+**Current Condition:**
+- Now a sacred site with 49 points of light orbiting the pedestal
+- Bronze plaque bears new inscription: "Here rest forty-nine heroes. They chose to guard. Remember them."
+- Cave entrance partially damaged from Greater Hunger's tentacle
+- Interior filled with peaceful, holy atmosphere
+- Golden chains of light occasionally visible in the walls
 
-**Current Occupants:**
-- Marta (proprietor) - coordinating repairs
-- The party - exhausted but victorious
-- Various villagers helping with cleanup
-- Wounded being tended in dry corners
-
-**Immediate Surroundings:**
-- Debris-strewn common room
-- Makeshift medical area for wounded
-- Salvaged supplies stacked on tables
-- Water still draining through gaps
+**Immediate Scene:**
+- Party standing in transformed sacred space
+- Dragonboy exhausted from transformation and impact
+- No immediate threats, profound silence
+- Sunlight beginning to filter in through entrance
 
 ---
 
-## Village of Saltmere
+## Village of Saltmere - Immediate Aftermath
 
 ### Overall Condition
 **Infrastructure Damage:**
-- Harbor district: Severe flooding, multiple buildings damaged
-- Lighthouse: Operational but needs structural inspection
-- Docks: Several piers destroyed by tentacles
-- Houses: 20% with significant damage, mostly near water
+- Harbor district: Severe flooding damage, needs major cleanup
+- Lighthouse: Standing but cliff face partially collapsed
+- Docks: Northern sections destroyed by massive tentacles
+- Houses: 30% with significant damage from earthquakes and flooding
 - Streets: Covered in debris, seaweed, and silt
 
-**Current Activity:**
-- Dawn recovery efforts beginning
-- Families checking on damaged homes
-- Fishermen assessing boat damage
-- Councilwoman organizing work crews
+**Population Status:**
+- 49 citizens sacrificed as eternal guardians
+- Remaining population traumatized but grateful
+- Many injuries from chaos, but no additional deaths
+- Leadership vacuum with Councilwoman's sacrifice
 
-### Key Locations Status
+### Environmental Recovery
+- Floodwaters fully receded
+- No more supernatural storms
+- Ocean returned to normal patterns
+- Dawn breaking clear for first time in days
 
-**The Lighthouse**
-- Beacon: Restored and burning
-- Structure: Door damaged, interior bloodstained
-- Access: Path littered with corrupted creature remains
+---
 
-**Harbor**
-- Water Level: Returning to normal
-- Boats: 30% damaged or sunk
-- Docks: Northern pier destroyed
-- Activity: Salvage operations beginning
+## Critical Immediate Concerns
 
-**Market Square**
-- Condition: Flooded but draining
-- Debris: Tentacle furrows in ground
-- Buildings: Minor damage to surrounding shops
+### Missing Person
+**Aleron - Status Unknown**
+- Last seen channeling divine power on clifftop
+- Cliff collapsed during Greater Hunger's attack
+- No confirmation of survival or death
+- Urgent search needed
 
-**Darkwater Reach** (Northern Coast)
-- Status: Site of disappearances
-- Current: Avoided by locals
-- Evidence: Possible creature remains
+### The Sacrificed
+**49 Eternal Guardians Including:**
+- Councilwoman Vera Blackwater
+- Tam (Harald's nephew)
+- 47 other volunteer citizens
+- Now transformed into protective lights
+- Families need notification and comfort
+
+### Village Needs
+**Immediate Priorities:**
+1. Search for Aleron at cliff collapse
+2. Account for all citizens
+3. Medical aid for injured
+4. Begin clearing debris
+5. Establish temporary leadership
+6. Comfort grieving families
+
+---
+
+## Party Resources Available
+
+### At Current Location
+- Sacred cave provides shelter if needed
+- Peaceful atmosphere for rest
+- Protected from elements
+- Site of historical significance
+
+### In the Village
+- Salt & Anchor Tavern still standing (damaged)
+- Marta ready to provide aid
+- Community will rally around heroes
+- Basic supplies available despite damage
 
 ---
 
 ## Environmental Conditions
 
 ### Weather
-- Storm: Breaking up, moving eastward
-- Wind: Dying to normal levels
-- Rain: Light drizzle replacing downpour
-- Sky: Dawn light through dissipating clouds
-- Temperature: Cool, typical for season
+- Storm completely dissipated
+- Clear dawn sky emerging
+- Calm seas after supernatural turmoil
+- Cool morning air, fresh after rain
 
-### Tidal/Ocean Status
-- Tide: Receding from supernatural high
-- Waves: Calming to normal patterns
-- Debris Line: Shows flood reached 8 feet in places
-- Water Color: Still murky with disturbed sediment
-
----
-
-## Party Resources Available
-
-### At the Tavern
-- Shelter: Damaged but functional rooms
-- Food: Limited (kitchen partially operational)
-- Water: Well uncontaminated
-- Medical: Basic supplies, villager healers
-- Storage: Secure cellar still dry
-
-### In the Village
-- Blacksmith: Operational for repairs
-- General Store: Water damaged, limited supplies
-- Healer's House: Overwhelmed with wounded
-- Council Hall: Serving as coordination center
-- Temple Shrine: Intact, offering sanctuary
+### Supernatural Status
+- All entrancement effects ended
+- No lingering corruption detected
+- Greater and Lesser Hungers sealed
+- Normal reality restored
 
 ---
 
-## Immediate Concerns
+## Immediate Next Steps
 
-### Urgent Needs
-1. Structural assessment of damaged buildings
-2. Medical care for wounded villagers
-3. Food distribution (many kitchens flooded)
-4. Clear debris from main streets
-5. Restore damaged fishing fleet
+### For the Party
+1. Exit sacred cave
+2. Check on Aleron's fate
+3. Return to village
+4. Help coordinate recovery
+5. Rest and recover from ordeal
 
-### Party-Specific
-1. Rest and magical recovery needed
-2. Equipment maintenance after water exposure
-3. Secure storage for accumulated gear
-4. Private space for planning
-5. Medical attention for battle wounds
-
----
-
-## Travel Options
-
-### Currently Available
-- **Walking:** Around village (debris hazards)
-- **Small Boats:** Limited, harbor damaged
-- **Horses:** Few on island, probably spooked
-
-### Currently Unavailable
-- **Large Ships:** Harbor too damaged
-- **Coastal Paths:** Some washed out
-- **Bridge to Mainland:** If exists, needs inspection
+### For the Village
+1. Account for all citizens
+2. Treat wounded
+3. Begin cleanup
+4. Organize memorial planning
+5. Establish temporary governance
 
 ---
 
 ## Time-Sensitive Elements
 
-### Next 24 Hours
-- High tide in 8 hours (flood damage assessment)
-- Rescued villagers may wake
-- Councilwoman calling town meeting
-- Funerals for the three dead
-- Structural collapses possible
+### Next Hour
+- Aleron search critical (if alive, needs help)
+- Injured villagers need treatment
+- Families seeking news of the 49
+- Initial damage assessment
 
-### Next 3 Days
-- Supply ships expected (if harbor cleared)
-- Weather should fully clear
-- Full damage assessment complete
-- Recovery efforts organized
-- Possible arrival of outside authorities
+### Next Day
+- Full accounting of losses
+- Begin infrastructure repairs
+- Memorial planning discussions
+- Establish new routines
+
+### Next Week
+- Major rebuilding efforts
+- New leadership selection
+- Economic reorganization
+- Long-term planning
+
+---
+
+## Changed World State
+
+### Saltmere's New Reality
+- Free from centuries-old compact
+- No more seven-year sacrifices
+- Protected by eternal guardians
+- Reduced but united population
+
+### Regional Impact
+- All coastal areas now safe
+- Ancient threat permanently sealed
+- News will spread to other communities
+- Possible investigation by authorities
+
+### Party's New Status
+- Witnessed ultimate sacrifice
+- Enabled saving of entire coastline
+- Legendary reputation cemented
+- Deep emotional bonds with community
 
 ---
 
 ## DM Notes
-- Village in recovery mode, not normal operations
-- Many opportunities for party to help
-- NPCs available but focused on crisis
-- Resources limited but freely shared with heroes
-- Good time for downtime activities mixed with aid
-- Consider environmental hazards from damage
+- Emotional aftermath is immediate priority
+- Aleron's fate creates urgency
+- Village needs heroes' leadership
+- Memorial and rebuilding provide downtime framework
+- Character development opportunities abundant
+- New threats should emerge gradually after recovery period

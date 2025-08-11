@@ -2,11 +2,11 @@
 
 ## Basic Information
 **Character Name:** Seraphina  
-**Race:** Aasimar (Celestial Heritage)  
+**Race:** Aasimar (Scourge)  
 **Class:** Warlock  
-**Level:** 1  
-**Background:** [To be determined]  
-**Experience:** 150/300  
+**Level:** 2  
+**Background:** Folk Hero (Saltmere)  
+**Experience:** 450/900  
 **Player:** [Player Name]  
 
 ## Ability Scores
@@ -18,12 +18,12 @@
 - **Charisma:** 17 (+3)
 
 ## Combat Stats
-**Current Health:** [8 + Con mod = 9]/9  
-**Armor Class:** [11 + Dex mod + armor = varies]  
+**Current Health:** 16/16 (8 + 1 + 7 from level 2)  
+**Armor Class:** 13 (Leather Armor + Dex)  
 **Initiative:** +1  
 **Proficiency Bonus:** +2  
 
-**Hit Dice:** 1d8  
+**Hit Dice:** 2d8  
 **Death Saves:** ⚪⚪⚪ Successes | ⚪⚪⚪ Failures  
 
 ## Defenses
@@ -31,7 +31,7 @@
 - Strength: +1
 - Dexterity: +1
 - Constitution: +1
-- Intelligence: +1
+- Intelligence: -1
 - Wisdom: +3 (Proficient)
 - Charisma: +5 (Proficient)
 
@@ -41,35 +41,36 @@
 
 ## Skills (Proficient marked with *)
 - **Acrobatics (Dex):** +1
-- **Animal Handling (Wis):** +1
+- **Animal Handling (Wis):** +3* (Background)
 - **Arcana (Int):** -1
 - **Athletics (Str):** +1
-- **Deception (Cha):** +5*
+- **Deception (Cha):** +5* (Class)
 - **History (Int):** -1
-- **Insight (Wis):** +4* (+1 Wis +2 prof +1 bonus)
-- **Intimidation (Cha):** +5* (+3 Cha +2 prof)
-- **Investigation (Int):** +1*
+- **Insight (Wis):** +3
+- **Intimidation (Cha):** +5* (Class)
+- **Investigation (Int):** +1* (Class)
 - **Medicine (Wis):** +1
 - **Nature (Int):** -1
-- **Perception (Wis):** +1
-- **Performance (Cha):** +5* (+3 Cha +2 prof)
-- **Persuasion (Cha):** +5* (+3 Cha +2 prof)
-- **Religion (Int):** -1
+- **Perception (Cha):** +3
+- **Performance (Cha):** +3
+- **Persuasion (Cha):** +5* (Class)
+- **Religion (Int):** +1* (Class)
 - **Sleight of Hand (Dex):** +1
 - **Stealth (Dex):** +1
-- **Survival (Wis):** +1
+- **Survival (Wis):** +3* (Background)
+- **Vehicle (Land):** +3* (Background)
 
 ## Senses
 **Darkvision:** 60 feet  
-**Passive Perception:** 11  
-**Passive Insight:** 14  
+**Passive Perception:** 13  
+**Passive Insight:** 13  
 **Passive Investigation:** 11  
 
 ## Languages & Proficiencies
 **Languages:** Common, Celestial  
 **Armor:** Light Armor  
 **Weapons:** Simple Weapons  
-**Tools:** [Background dependent]  
+**Tools:** Smith's Tools, Vehicles (Land)  
 
 ## Combat Actions
 
@@ -78,15 +79,19 @@
 - **Light Crossbow:** +3 to hit, 1d8+1 piercing, Range 80/320, Ammunition/Loading/Two-handed
 
 ### Cantrips (2 known)
-- **Eldritch Blast:** 120 ft range, V/S, Instantaneous - 1d10 force damage
-- **[Second cantrip to be chosen]**
+- **Eldritch Blast:** 120 ft range, V/S, Instantaneous - 1d10 force damage, 2 beams at level 2
+- **Guidance:** Touch, V/S, Concentration 1 minute - +1d4 to one ability check
 
-### 1st Level Spells (1 slot available - Pact Magic)
-- **[Warlock spells to be chosen from patron list]**
+### 1st Level Spells (2 slots available - Pact Magic, short rest recovery)
+**Known Spells:**
+- **Thunderwave:** 15 ft cube, V/S, Instantaneous - 2d8 thunder damage, pushes 10 ft
+- **Hellish Rebuke:** 60 ft range, V/S, Reaction - 2d10 fire damage when damaged
+- **Hex:** 90 ft range, V/S/M, Concentration 1 hour - Extra damage and disadvantage on ability checks
 
 ### Celestial Abilities
-- **Healing Hands:** Heal HP equal to level as an action (1/long rest)
+- **Healing Hands:** Heal HP equal to level as an action (1/long rest) - 2 HP
 - **Light Bearer:** Know the Light cantrip (doesn't count against cantrips known)
+- **Radiant Soul:** At 3rd level, sprout wings and deal radiant damage
 
 **Spell Save DC:** 13 (8 + prof + Cha)  
 **Spell Attack Bonus:** +5 (+prof + Cha)  
@@ -95,41 +100,43 @@
 ## Features & Traits
 
 ### Warlock Features
-- **Otherworldly Patron:** [Celestial/Divine patron - fits protective maternal role]
-- **Pact Magic:** Short rest spell slot recovery
-- **[Patron-specific features at level 1]**
+- **Otherworldly Patron:** The Celestial (protective divine entity)
+- **Pact Magic:** Short rest spell slot recovery, maximum 1st level
+- **Eldritch Invocations (2):**
+  - **Agonizing Blast:** Add Charisma modifier to Eldritch Blast damage
+  - **Healing Light:** Celestial patron - bonus action healing (1d6+1, 4 uses/long rest)
 
-### Aasimar Traits (Celestial Heritage)
+### Aasimar Traits (Scourge)
 - **Size:** Medium
 - **Speed:** 30 ft
 - **Darkvision:** 60 feet
 - **Celestial Resistance:** Resistance to necrotic and radiant damage
 - **Healing Hands:** Magical healing ability (level HP per long rest)
 - **Light Bearer:** Light cantrip known innately
-- **Celestial Rejuvenation:** [Enhanced healing/recovery abilities]
-- **Heavenly Wings:** Flight capability with radiant damage potential
-  - **Fly Speed:** [30 ft when manifested]
-  - **Radiant Damage:** [Additional damage type when using wings]
+- **Radiant Consumption:** At 3rd level, radiant energy that damages nearby creatures
+
+### Folk Hero Background
+- **Rustic Hospitality:** Welcome among common folk
+- **Feature:** Can find places to hide, rest, and recuperate among commoners
 
 ### Protective Maternal Instincts
 - **Relationship Focus:** Learning to balance protection with trust in Dragonboy's abilities
-- **Known Capabilities:** Thunderwave and Hellish Rebuke (from campaign notes)
+- **Combat Innovation:** Developed radiant grappling technique during Hunger battle
 - **High Charisma:** Natural leadership and persuasive abilities
-- **Social Skills:** Strong in deception, intimidation, performance, and persuasion
+- **Social Skills:** Strong in deception, intimidation, and persuasion
 
 ## Equipment & Inventory
 
 ### Currently Equipped
 - **Armor:** Leather Armor (AC 11 + Dex mod)
 - **Weapons:** Dagger, Light Crossbow
-- **Arcane Focus:** [Warlock focus item]
+- **Arcane Focus:** Celestial pendant (silver star)
 
 ### Carried Items
 - **Leather Armor** (10 lb)
 - **Dagger** x2 (2 lb)
 - **Light Crossbow** (5 lb)
 - **Crossbow Bolts** x20 (1.5 lb)
-- **Simple Weapon** (backup)
 - **Explorer's Pack:**
   - Backpack (5 lb)
   - Bedroll (7 lb)
@@ -139,60 +146,69 @@
   - Rations x10 (20 lb)
   - Waterskin (5 lb)
   - Hemp rope 50 ft (10 lb)
-- **Arcane Focus Components**
-- **[Background equipment]**
+- **Smith's Tools** (8 lb)
+- **Arcane Focus:** Celestial pendant (1 lb)
 
 ### Carrying Capacity
-**Weight Carried:** [Approximately 76.5 lb]  
-**Encumbered:** [180 lb]  
-**Push/Drag/Lift:** [360 lb]  
+**Weight Carried:** Approximately 85.5 lb  
+**Encumbered:** 180 lb  
+**Push/Drag/Lift:** 360 lb  
 
 ### Currency & Resources
-- **Coins:** [Starting gold to be determined]
-- **Trade Goods:** [Saltmere island currency - fish, goods, services]
-- **Reputation Credits:** [Cautiously grateful relationship with Marta, strong positive with Harald]
+- **Coins:** 10 gp (starting)
+- **Trade Goods:** Saltmere island currency - fish, goods, services
+- **Reputation Credits:** Hero of Saltmere, trusted friend of Marta, community protector
 
 ## Character Notes
 
 ### Personality & Background
 **Personality:** Protective adoptive mother with strong celestial heritage  
 **Role:** Family protector learning to balance safety with trust  
+**Folk Hero Origin:** Achieved legendary status protecting Saltmere from ancient evil
+
 **Relationship with Party:** 
 - **Dragonboy:** Adoptive son, learning to trust his unprecedented abilities
 - **Owen:** Strategic alliance, values his tactical protection of family
+- **Aleron:** Respectful of divine magic, complementary celestial/divine powers
 
 ### Celestial Heritage & Powers
-- **Divine Connection:** Aasimar heritage suggests celestial/angelic bloodline
-- **Protective Magic:** Thunderwave and Hellish Rebuke known for family defense
-- **Flight Capability:** Heavenly wings provide tactical mobility and radiant damage
-- **Healing Touch:** Maternal healing abilities complement protective instincts
+- **Divine Connection:** Aasimar heritage channeled through Celestial patron
+- **Protective Magic:** Thunderwave and Hellish Rebuke for family defense
+- **Healing Abilities:** Both Healing Hands and patron's Healing Light
+- **Combat Innovation:** Developed radiant grappling during Hunger battle
 - **Light Bearer:** Natural connection to radiant magic and illumination
 
 ### Warlock Patron Relationship
-- **Protective Pact:** Patron likely aligned with family protection and maternal duties
-- **Power Source:** Celestial or divine entity supporting her guardianship role
-- **Spell Selection:** Magic focused on protection, detection, and family safety
-- **Growing Power:** Pact magic complements natural aasimar abilities
+- **The Celestial:** Divine entity aligned with family protection and maternal duties
+- **Power Source:** Celestial being supporting her guardianship role
+- **Spell Selection:** Magic focused on protection, retaliation, and control
+- **Growing Power:** Level 2 brings enhanced Eldritch Blast and healing
 
 ### Social Dynamics
 - **High Charisma:** Natural leader and spokeswoman for the group
-- **Deception/Persuasion:** Skilled at managing social situations and protecting family secrets
-- **Intimidation:** Can be formidable when family is threatened
-- **Performance:** Able to present different faces as needed for protection
+- **Deception/Persuasion:** Skilled at managing social situations and protecting family
+- **Intimidation:** Formidable when family is threatened
+- **Community Relations:** Key to party's standing in Saltmere
 
-### Recent Events
-- **Corruption Crisis:** Used Thunderwave in tavern combat, revealed magical nature
-- **Public Display:** Extraordinary magical capabilities now known to Saltmere community
-- **Community Relations:** Managing aftermath of property damage vs life-saving heroics
-- **Maternal Growth:** Learning to balance protection with allowing Dragonboy independence
+### Recent Achievements (Session 002)
+- **The Hunger of the Depths:** Used Inner Radiance transformation to burn corrupted
+- **Radiant Grappling:** Innovative combat technique proved devastatingly effective
+- **Community Leader:** Helped coordinate village defense and recovery
+- **Magical Acceptance:** Powers now seen as protective blessing by community
 
 ### Campaign Integration
-- **Spell Save DC 15:** As noted in campaign summary - suggests higher level or special bonuses
-- **Known Spells:** Thunderwave and Hellish Rebuke already established
-- **Reputation Management:** Key to party's social standing in Saltmere community
-- **Family Dynamics:** Central emotional core of the group relationships
+- **Spell Save DC 13:** Consistent with level 2 capabilities
+- **Known Spells:** Thunderwave and Hellish Rebuke established from combat
+- **Reputation Management:** Central to party's social standing in Saltmere
+- **Family Dynamics:** Emotional core of group relationships
+
+### Current Status
+- **Location:** Salt & Anchor Tavern, Saltmere Island
+- **Condition:** Rested and recovered, community standing secure
+- **Relationships:** Trusted friend of Marta, respected community protector
+- **Goals:** Investigating ancient threats, protecting family and community
 
 ---
-*Last Updated: [Session Date]*  
+*Last Updated: Post-Session 002*  
 *Current Location: Salt & Anchor Tavern, Saltmere Island*  
-*Special Notes: Protective mother figure with celestial heritage and warlock pact focused on family protection*
+*Special Notes: Level 2 - Hero of Saltmere, protective mother with celestial patron focused on family defense*

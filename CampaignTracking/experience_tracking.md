@@ -2,8 +2,8 @@
 
 ## Current Party Status
 **Current Level:** 2  
-**Total Experience:** 450 XP each  
-**Next Level:** 900 XP (need 450 more)  
+**Total Experience:** 750 XP each  
+**Next Level:** 900 XP (need 150 more)  
 
 ---
 
@@ -43,10 +43,29 @@
 - Owen: Died and returned, successfully lit lighthouse under fire
 - Aleron: Critical divine damage breaking corrupted anchors
 
+---
+
+### Session 003: The Final Compact
+**Date:** [Session 3 Date]  
+**XP Awarded:** 300 XP per character (capped from 500 XP earned)  
+
+**Breakdown of Earned XP:**
+- Major Mystery Resolution: 150 XP (Discovered true nature of compact and Greater Hunger)
+- Lives Saved: 150 XP (Entire coastal region saved from apocalyptic threat)
+- Creative Problem Solving: 75 XP (Dragonboy's water shapes, coordinated ritual defense)
+- World-Altering Event: 300 XP (Permanent sealing of both Hungers)
+- Heroic Sacrifice Witnessed: 50 XP (49 volunteers becoming eternal guardians)
+
+**Notable Achievements:**
+- Dragonboy: Two impossible transformations, prophetic visions proved crucial
+- Seraphina: Empowered Hellish Rebuke revealed Greater Hunger
+- Owen: Led volunteer organization, discovered cessation clause
+- Aleron: Divine intervention at critical moment (NPC heroics)
+
 **Special Recognition:**
-- Party achieved "Heroes of Saltmere" reputation
-- First major supernatural threat defeated
-- Magical abilities publicly accepted
+- Witnessed ultimate sacrifice of 49 villagers
+- Permanently freed all coastal lands from ancient threat
+- Achieved legendary status in Saltmere history
 
 ---
 
@@ -55,22 +74,26 @@
 ### By Character:
 **Dragonboy**
 - Session 1: 150 XP
-- Session 2: 300 XP  
-- Total: 450/900 XP
+- Session 2: 300 XP
+- Session 3: 300 XP  
+- Total: 750/900 XP
 
 **Seraphina**
 - Session 1: 150 XP
 - Session 2: 300 XP
-- Total: 450/900 XP
+- Session 3: 300 XP
+- Total: 750/900 XP
 
 **Owen**
 - Session 1: 150 XP
 - Session 2: 300 XP
-- Total: 450/900 XP
+- Session 3: 300 XP
+- Total: 750/900 XP
 
 **Aleron** (Joined Session 2)
 - Session 2: 300 XP
-- Total: 450/900 XP
+- Session 3: 300 XP
+- Total: 750/900 XP (if survived cliff collapse)
 
 ---
 
@@ -79,28 +102,28 @@
 ### Roleplay Excellence (25-50 XP)
 - Family dynamics between Seraphina and Dragonboy
 - Owen's pragmatic soldier personality
-- Aleron's clerical duties and healing focus
+- Heroic leadership during crisis
 
 ### Creative Problem Solving (50-75 XP)
-- Dragonboy's water illusions to distract enemies
-- Seraphina's radiant grappling innovation
-- Owen's lighthouse mission initiative
-- Coordinated attacks on aerial targets
+- Dragonboy's water shape distractions
+- Seraphina's enhanced magic through emotion
+- Owen's volunteer organization
+- Creative use of owlbear as projectile
 
 ### World Discovery (25-50 XP)
-- Uncovered seven-soul compact mystery
-- Discovered Darkwater Reach significance
-- Learned about ancient island history
+- True nature of the Hungers revealed
+- Greater Hunger's existence discovered
+- Original compact's protective purpose understood
 
 ### Lives Saved/Changed (75-150 XP)
-- Tam (Session 1)
-- Brendan, Pip, Sarah, Maggie (Session 2)
-- Entire village population from drowning
+- Session 1: Tam
+- Session 2: Brendan, Pip, Sarah, Maggie + village
+- Session 3: All coastal communities saved from Greater Hunger
 
 ### World-Altering Events (150-300 XP)
-- Defeated The Hunger of the Depths
-- Broke ancient supernatural compact
-- Changed Saltmere's relationship with magic
+- Session 2: Defeated Lesser Hunger
+- Session 3: Permanently sealed both Hungers
+- Freed coastline from centuries-old threat
 
 ---
 
@@ -112,19 +135,21 @@
 3. ✓ First character death and resurrection (Owen)
 4. ✓ First ancient evil defeated
 5. ✓ Heroes of Saltmere reputation earned
+6. ✓ Witnessed ultimate heroic sacrifice
+7. ✓ Permanently altered world state
 
 ### Progress Toward Future Milestones:
-- [ ] Uncover origin of seven-soul compact
 - [ ] Establish permanent base in Saltmere
 - [ ] Train Dragonboy's prophetic abilities
-- [ ] Investigate other coastal threats
-- [ ] Deal with The Hunger's promise to remember
+- [ ] Help Saltmere rebuild without 49 citizens
+- [ ] Investigate other coastal compacts
+- [ ] Learn Aleron's fate
 
 ---
 
 ## DM Notes
 - XP cap of 300 per session maintains controlled progression
-- Carryover XP rewards exceptional play without breaking balance
-- Level 2 achieved after two sessions as planned
-- Party demonstrated excellent teamwork warranting full XP
-- Consider bonus XP for downtime activities next session
+- Only 150 XP needed for Level 3 - likely next session
+- Party demonstrated exceptional teamwork and creativity
+- Witnessed major world-changing event
+- Character development focus may be appropriate next session

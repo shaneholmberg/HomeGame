@@ -3,12 +3,12 @@
 ## Core NPCs - Central to Campaign
 
 ### Marta
-**Role:** Salt & Anchor Tavern Keeper, Party's Primary Host  
+**Role:** Salt & Anchor Tavern Keeper, Emerging Community Leader  
 **Race:** Human  
 **Age:** 40s  
-**Current Status:** Grateful protector and ally despite massive property damage  
+**Current Status:** Key organizer in post-sacrifice reconstruction  
 **Current Location:** Salt & Anchor Tavern (damaged but operational)  
-**Relationship with Party:** Cautious Stranger → Trusted Friend & Ally (+4)  
+**Relationship with Party:** Trusted Friend & Ally (+5)  
 
 **Background:**
 - Owns and operates Saltmere's primary social hub
@@ -18,276 +18,260 @@
 - Forty years of tavern keeping without seeing such magic
 
 **Current Situation:**
-- Offering free room and board to party indefinitely
-- Coordinating community meals from damaged kitchen  
-- Leading volunteer repair efforts
-- Becoming unofficial headquarters for recovery efforts
-- Processing trauma while being pillar of strength
+- Stepping into leadership vacuum after Councilwoman's sacrifice
+- Coordinating village rebuilding efforts
+- Offering permanent free room and board to party
+- Managing distribution of resources with reduced population
+- Organizing memorial planning for the 49
 
-**Relationship Evolution:**
-- Session 1: Shocked witness to magical combat
-- Session 2: Active supporter during creature attack
-- Now: Protective of party against any criticism
-
-**Resources She Provides:**
-- Safe haven and base of operations
-- Community information and gossip
-- Introduction to other villagers
-- Coordination point for quests
-- Storage for party equipment
+**Session 3 Development:**
+- Witnessed the mass entrancement crisis
+- Helped organize volunteer gathering
+- Now dealing with loss of many regular customers/friends
 
 **Key Quotes:** 
 - "In forty years, I've never seen anything like that"
 - "My tavern can be rebuilt. My customers couldn't be brought back from the dead"
 - "These heroes have free room and board as long as I'm breathing"
-
-**Future Potential:**
-- Quest hub coordinator
-- Information broker
-- Community liaison  
-- Potential business partner in rebuilt tavern
+- "Someone needs to keep this village together. Might as well be me."
 
 ---
 
 ## Hero Tier Relationships
 
 ### Harald
-**Role:** Local Fisherman, Tam's Uncle  
+**Role:** Senior Fisherman, Grieving Uncle, Potential Leader  
 **Race:** Human  
 **Age:** 50s  
-**Current Status:** Deeply grateful, sworn ally  
-**Current Location:** Saltmere village, caring for Tam  
+**Current Status:** Mourning Tam's sacrifice, emerging as community elder  
+**Current Location:** Saltmere village  
 **Relationship with Party:** Devoted Ally (+5)  
 
 **Background:**
 - Witnessed nephew's corruption and rescue
 - Fought alongside party during creature's attack
-- Helped barricade tavern during siege
-- Now fiercely protective of party's reputation
+- Lost Tam to the final sacrifice
 
-**Post-Crisis Status:**
-- Spreading word of party's heroism
-- Offering fishing knowledge and boat access
-- Key advocate in community relations
-- Will provide aid without question
+**Current Situation:**
+- Grieving but proud of Tam's heroic choice
+- Stepping into leadership role among fishermen
+- Helping reorganize fishing fleet with reduced crews
+- Key advocate for party in all matters
 
-**Key Quotes:** "These people saved my nephew twice over. Anyone speaks ill of them answers to me."
+**Session 3 Impact:**
+- Witnessed Tam volunteer as 49th
+- Supported his nephew's choice despite personal loss
+- Now unofficial leader of fishing community
+
+**Key Quotes:** 
+- "These people saved my nephew twice over. Anyone speaks ill of them answers to me."
+- "Tam chose to be a hero. I couldn't be prouder."
+
+---
+
+## Major NPCs - The Sacrificed
+
+### Councilwoman Vera Blackwater (Deceased - Eternal Guardian)
+**Role:** Former Island Council Leader  
+**Final Act:** Volunteered among the 49  
+**Legacy:** Knowledge of ancient lore, strong leadership  
+
+**Sacrifice Context:**
+- Led by example when volunteers were needed
+- Organized the volunteer gathering
+- Ensured orderly progression to cave
+- One of 49 eternal guardians
+
+**Impact of Loss:**
+- Leadership vacuum in village
+- Historical knowledge partially lost
+- Administrative experience missing
+- Inspiration for others to volunteer
+
+### Tam (Deceased - Eternal Guardian)
+**Role:** The 49th Volunteer, Bridge Between Living and Taken  
+**Final Act:** Completed the required number for ritual  
+**Legacy:** Prophetic understanding, heroic sacrifice  
+
+**Sacrifice Context:**
+- Understood his unique role through corruption experience
+- Volunteered despite uncle's protests
+- Spoke of being "bridge between living and taken"
+- Light pulsed in farewell after transformation
+
+**Impact of Loss:**
+- Harald's grief and pride
+- Symbol of young heroism
+- Connection to supernatural understanding lost
 
 ---
 
-## Major NPCs - Saltmere Leadership
-
-### Councilwoman Vera Blackwater
-**Role:** Island Council Leader  
-**Race:** Human  
-**Age:** 60s  
-**Personality:** Sharp, pragmatic, knowledgeable  
-
-**Current Status:** Respectful ally after proving party's worth  
-**Current Location:** Coordinating village recovery  
-**Relationship with Party:** Respected Authority → Grateful Ally (+3)  
-
-**Background:**
-- Initially suspicious of magical strangers
-- Witnessed party save entire village
-- Knowledgeable about island's ancient lore
-- Commands respect throughout community
-
-**Current Concerns:**
-- Village reconstruction efforts
-- Preventing future supernatural threats
-- Understanding the ancient compact
-- Maintaining island independence
-
-**Potential Quest Giver:** Yes - historical investigations, island defense
-
----
+## Living NPCs - Current Status
 
 ### Constable Elias Marwick
 **Role:** Island Law Enforcement  
 **Race:** Human  
 **Age:** 40s  
-**Current Status:** Grateful but overwhelmed  
-**Relationship with Party:** Professional Respect (+2)  
-
-**Background:**
-- Investigated disappearances for weeks without success
-- Witnessed party solve crisis he couldn't
-- Maintains law and order during recovery
-- Documented evidence of supernatural events
+**Current Status:** Overwhelmed but determined  
+**Relationship with Party:** Professional Respect (+3)  
 
 **Current Activities:**
-- Managing disaster relief
-- Recording testimonies about The Hunger
-- Coordinating search for damaged property
-- Working with Councilwoman on defenses
+- Managing aftermath of crisis
+- Documenting the 49 sacrificed
+- Maintaining order with reduced population
+- Coordinating with Marta on leadership
+
+**Session 3 Role:**
+- Helped organize evacuation efforts
+- Witnessed mass entrancement
+- Assisted volunteer organization
+
+### Kellan
+**Role:** New Lighthouse Keeper, Party Devotee  
+**Race:** Human  
+**Age:** Early 20s  
+**Current Status:** Hero-worshipping, eager to help  
+**Relationship with Party:** Grateful Admirer (+4)  
+
+**Background:**
+- Fought alongside Owen at lighthouse
+- Witnessed Owen's magical abilities
+- Helped during mass entrancement crisis
+
+**Current Status:**
+- Official lighthouse keeper after Tomás's death
+- Training in supernatural threat detection
+- Eager assistant to party's efforts
+- Growing in confidence and skill
 
 ---
 
-## The Rescued
-
-### Tam
-**Role:** Corruption Survivor (First Rescued)  
-**Race:** Human  
-**Age:** 20s  
-**Current Status:** Recovering, fragmented memories  
-**Relationship with Party:** Life Debt (+4)  
-
-**Background:**
-- First saved from corruption
-- Prophetic whispers about "three of seven"
-- Memories slowly returning
-- Protected by uncle Harald
-
-**Recovery Status:**
-- Physical healing complete
-- Mental trauma ongoing
-- Occasional prophetic muttering
-- Nightmares of "crushing darkness"
+## The Rescued (Corruption Survivors)
 
 ### Brendan
 **Role:** Fisherman, Corruption Survivor  
-**Race:** Human  
-**Age:** 30s  
-**Current Status:** Unconscious but stable  
-**Relationship with Party:** Life Debt (pending consciousness)  
+**Current Status:** Recovered, dealing with memories  
+**Relationship with Party:** Life Debt (+4)  
 
-**Background:**
-- Found with boat anchored, nets half-hauled
-- Held aloft as corrupted anchor
-- Connection severed by divine magic
-- Wife anxiously awaiting recovery
+**Recovery Update:**
+- Physically healthy, mentally processing
+- Remembers "seven lights in endless dark"
+- Helping reorganize fishing fleet
+- Grateful but haunted
 
 ### Pip MacBride
 **Role:** Young Villager, Corruption Survivor  
-**Race:** Human  
-**Age:** Teenager  
-**Current Status:** Unconscious but stable  
-**Relationship with Party:** Life Debt (pending consciousness)  
+**Current Status:** Recovered, traumatized  
+**Relationship with Party:** Life Debt (+4)  
 
-**Background:**
-- Thought to have run away to sea
-- Youngest of the corrupted
-- Saved by Dragonboy's savage attacks
-- Parents maintaining bedside vigil
+**Recovery Update:**
+- Youngest survivor struggling most
+- Parents protective and grateful
+- Speaks of "cold voices calling"
+- May need ongoing support
 
 ### Sarah
 **Role:** Cooper's Daughter, Corruption Survivor  
-**Race:** Human  
-**Age:** Early 20s  
-**Current Status:** Unconscious but stable  
-**Relationship with Party:** Life Debt (pending consciousness)  
+**Current Status:** Recovered, helping father  
+**Relationship with Party:** Life Debt (+4)  
 
-**Background:**
-- Father too drunk to report disappearance
-- Held as corrupted anchor
-- Hexed by Seraphina during battle
-- Connection broken by combined assault
+**Recovery Update:**
+- Returned to work despite trauma
+- Recalls "compact keeper in barnacle crown"
+- Father sobered up after near-loss
+- Strengthened family bonds
 
 ### Old Maggie
 **Role:** Elder Villager, Corruption Survivor  
-**Race:** Human  
-**Age:** 70s  
-**Current Status:** Unconscious but stable  
-**Relationship with Party:** Life Debt (pending consciousness)  
+**Current Status:** Recovered, sharing wisdom  
+**Relationship with Party:** Life Debt (+4)  
 
-**Background:**
-- Disappeared while gathering seaweed
-- Last anchor maintaining creature's connection
-- Saved by coordinated party attack
-- Granddaughter tending to her
+**Recovery Update:**
+- Eldest survivor, handling trauma well
+- Mentions "ancient words in drowned tongue"
+- Sharing historical knowledge
+- Helping with memorial planning
 
 ---
 
-## Combat Allies
+## Missing/Unknown Status
 
-### Kellan
-**Role:** Young Fisherman, Lighthouse Assistant  
-**Race:** Human  
-**Age:** Early 20s  
-**Current Status:** Hero-worshipping the party  
-**Relationship with Party:** Grateful Admirer (+3)  
+### Aleron
+**Role:** Traveling Cleric, Divine Intervenor  
+**Race:** Half-Elf  
+**Status:** MISSING - Presumed lost in cliff collapse  
+**Last Seen:** Channeling divine power beyond level  
 
-**Background:**
-- Volunteered for dangerous lighthouse mission
-- Fought corrupted creature alongside Owen
-- Witnessed Owen's magic firsthand
-- Helped restore the beacon
+**Final Act:**
+- Appeared "like Gandalf" with brilliant light
+- Distracted Greater Hunger at crucial moment
+- Cliff collapsed under tentacle assault
+- Fate unknown
 
-**Current Status:**
-- Spreading tales of Owen's bravery
-- Offering to help party with sea knowledge
-- Eager to learn combat skills
-- New confidence after surviving battle
-
----
-
-## The Fallen
-
-### Sera (Deceased)
-**Role:** Weaver  
-**Final Status:** Died corrupted, found peace in death  
-**Note:** Spoke as herself in final moments  
-
-### Tomás (Deceased)
-**Role:** Lighthouse Keeper  
-**Final Status:** Died corrupted, found peace in death  
-**Note:** Lighthouse left dark, leading to crisis escalation  
-
-### Unnamed Corrupted (Deceased)
-**Role:** Unknown villager  
-**Final Status:** Destroyed in lighthouse battle  
-**Note:** Identity still unknown
+**Search Priority:** URGENT
+- Party concern for allied cleric
+- Order of the Deep Current connection
+- Valuable healing abilities
+- Knowledge of maritime threats
 
 ---
 
-## Community Factions Post-Crisis
+## The Forty-Nine Eternal Guardians (Partial List)
+
+Notable among the sacrificed:
+1. **Councilwoman Vera Blackwater** - Leader
+2. **Tam** - The 49th, corruption survivor
+3. **Elder Fisherman Henrik** - "I've lived my years"
+4. **Grandmother Elsa** - "Better one than all"
+5-49. Various villagers who chose sacrifice
+
+**Current Status:** Transformed into eternal guardians
+**Location:** Founders' Cave, orbiting as lights
+**Purpose:** Eternally sealing both Hungers
+
+---
+
+## Community Factions Post-Sacrifice
+
+### Remaining Population
+**Status:** Grieving but free  
+**Leadership:** Emerging coalition (Marta, Harald, Marwick)  
+**Attitude:** Deep gratitude mixed with profound loss  
 
 ### Fishermen's Guild
-**Status:** Strongly supportive of party  
-**Leader:** Harald (informal influence)  
-**Attitude:** "They saved our own when we couldn't"  
-
-### Merchant Council
-**Status:** Pragmatically grateful  
-**Leader:** Councilwoman Blackwater  
-**Attitude:** "Damage is repairable, deaths aren't"  
-
-### Religious Community
-**Status:** Awed and slightly fearful  
-**Leader:** Visiting clerics like Aleron  
-**Attitude:** "Divine providence or dangerous power?"  
+**Status:** Reorganizing under Harald  
+**Challenge:** Reduced crews, maintained quotas  
+**Attitude:** "The 49 saved us all"  
 
 ### General Populace
-**Status:** Hero worship mixed with respectful fear  
-**Overall:** Party seen as protectors  
-**Reputation:** "The Heroes of Saltmere"  
+**Status:** Legendary reverence for party  
+**Overall:** United in grief and gratitude  
+**Reputation:** "The Witnesses to Ultimate Sacrifice"  
 
 ---
 
 ## Relationship Summary
 
 ### Party Standing:
-- **Heroes of Saltmere** - Village-wide reputation
-- **Magical Acceptance** - Powers seen as protective
-- **Life Debts** - Five villagers owe their lives
-- **Future Aid** - Can expect community support
+- **Legendary Heroes of Saltmere** - Witnessed and enabled ultimate sacrifice
+- **Magical Acceptance** - Powers seen as salvation
+- **Life Debts** - Multiple saved villagers
+- **Sacred Trust** - Guardians of village recovery
 
 ### Key Relationships:
-- Marta: Trusted Friend & Base Provider (+4)
-- Harald: Devoted Ally (+5)
-- Councilwoman Blackwater: Grateful Ally (+3)
-- Kellan: Grateful Admirer (+3)
-- Tam: Life Debt (+4)
-- Four Rescued: Life Debts (pending)
+- Marta: Trusted Friend & Emerging Leader (+5)
+- Harald: Devoted Ally Despite Loss (+5)
+- Kellan: Grateful Admirer & Assistant (+4)
+- Marwick: Professional Respect & Cooperation (+3)
+- All Corruption Survivors: Life Debts (+4)
+- Entire Village: Legendary Status
 
 ---
 
 ## DM Notes:
-- Marta's tavern serves as party headquarters
-- Public magical display has transformed party's standing
-- Multiple grateful NPCs provide future quest/aid opportunities
-- Councilwoman Blackwater key to historical investigation
-- Rescued villagers may have important memories when they wake
-- Community rebuilding provides downtime activities
-- The Hunger's promise to "remember" suggests future consequences
+- Village population reduced by approximately 10-15%
+- Leadership restructuring necessary
+- Memorial planning will be major focus
+- Aleron's fate creates immediate quest
+- Emotional aftermath needs addressing
+- Party now central to all village decisions

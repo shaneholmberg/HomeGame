@@ -4,9 +4,9 @@
 **Character Name:** Owen  
 **Race:** Human  
 **Class:** Fighter 1 / Sorcerer 1  
-**Level:** 1  
+**Level:** 2  
 **Background:** Soldier  
-**Experience:** 150/300  
+**Experience:** 450/900  
 **Player:** DKTamr2  
 
 ## Ability Scores
@@ -18,9 +18,9 @@
 - **Charisma:** 10 (+0)
 
 ## Combat Stats
-**Current Health:** 20/20  
-**Armor Class:** 14 (Studded Leather)  
-**Initiative:** +4  
+**Current Health:** 23/23 (10 + 3 + 10 from level 2)  
+**Armor Class:** 15 (Chain Shirt + Dex)  
+**Initiative:** +4 (Alert feat)  
 **Proficiency Bonus:** +2  
 
 **Hit Dice:** 1d10 + 1d6  
@@ -64,39 +64,43 @@
 **Languages:** Common, Draconic, Dwarvish  
 **Armor:** Heavy Armor, Light Armor, Medium Armor, Shields  
 **Weapons:** Martial Weapons, Simple Weapons  
-**Tools:** Playing Card Set  
+**Tools:** Playing Card Set, Gaming Set  
 
 ## Combat Actions
 
 ### Weapon Attacks
 - **Light Crossbow:** +6 to hit, 1d8+2 piercing, Range 80/320, Ammunition/Loading/Simple
+  - **Weapon Mastery:** Slow - reduce target speed by 10 ft until start of next turn
 - **Handaxe:** +3 to hit, 1d6+1 slashing, Range 20/60, Light/Thrown/Simple  
+  - **Weapon Mastery:** Vex - advantage on next attack after hitting
 - **Longsword:** +3 to hit, 1d8+1 slashing, Martial/Versatile (1d10)
-- **Unarmed Strike:** +3 to hit, 2 bludgeoning
+  - **Weapon Mastery:** Sap - target has disadvantage on next attack
+- **Unarmed Strike:** +3 to hit, 1 + Str mod bludgeoning
 
-### Cantrips
+### Cantrips (2 known)
 - **Fire Bolt:** +2 to hit, 1d10 fire damage, 120 ft range, V/S, Instantaneous
-- **Sorcerous Burst:** +2 to hit, 1d8 acid damage, 120 ft range, V/S, Instantaneous  
-- **Mending:** Touch, V/S/M, 1 minute duration - Repairs minor damage
 - **Light:** Touch, V/M, 1 hour duration - Creates bright light
 
-### 1st Level Spells (2 slots available)
+### 1st Level Spells (3 slots available - Sorcerer)
+**Known Spells:**
 - **Magic Missile:** Auto-hit, 1d4+1 force per missile, 120 ft range, V/S, Instantaneous
-- **Feather Fall:** 1 reaction, 60 ft range, V/M, 1 minute duration - Slows falling
+- **Shield:** Reaction, V/S, 1 round - +5 AC and immunity to Magic Missile
 
-**Spell Save DC:** 10  
-**Spell Attack Bonus:** +2  
+**Spell Save DC:** 10 (8 + prof + Cha)  
+**Spell Attack Bonus:** +2 (+prof + Cha)  
 **Spellcasting Ability:** Charisma
 
 ## Features & Traits
 
 ### Fighter Features
-- **Second Wind:** Bonus action, regain 1d10+1 HP (2 uses per long rest)
+- **Second Wind:** Bonus action, regain 1d10+1 HP (1/short rest)
 - **Fighting Style:** Archery (+2 to ranged weapon attacks)
+- **Action Surge:** Take additional action (1/short rest)
 
 ### Sorcerer Features  
 - **Spellcasting:** Charisma-based, 2 cantrips known, 2 1st-level spells known
-- **Innate Sorcery:** Twice per long rest, bonus action for 1 minute of enhanced magic
+- **Sorcerous Origin:** [To be determined - likely Draconic or Wild Magic]
+- **Sorcery Points:** 2 points, can convert to spell slots
 
 ### Human Traits
 - **Size:** Medium
@@ -106,26 +110,26 @@
 - **Versatile:** Gain an Origin feat of choice
 
 ### Soldier Background
-- **Heroic Inspiration:** Can be used for various benefits
+- **Military Rank:** Former soldier with contacts and recognition
+- **Feature:** Can access military strongholds and fortresses
 
 ### Feats
-- **Alert:** Initiative proficiency (+2 to initiative), can swap initiative with willing ally
-- **Archery:** +2 bonus to attack rolls with ranged weapons  
-- **Weapon Mastery:** Special weapon techniques
-  - **Handaxe (Vex):** Advantage on next attack after hitting
-  - **Longsword (Sap):** Target has disadvantage on next attack
-  - **Light Crossbow (Slow):** Reduce target speed by 10 ft until start of next turn
+- **Alert:** 
+  - Initiative proficiency (+2 to initiative)
+  - Can swap initiative with willing ally within 30 ft
+  - No advantage on attacks against you from unseen attackers
+- **Weapon Mastery:** Access to special weapon techniques as listed above
 - **Savage Attacker:** Once per turn when hitting with weapon, roll damage dice twice and use either result
 
 ## Equipment & Inventory
 
 ### Currently Equipped
-- **Armor:** Studded Leather (AC 12 + Dex mod)
+- **Armor:** Chain Shirt (AC 13 + Dex mod max 2)
 - **Weapons:** Longsword, Handaxe, Light Crossbow
-- **Shield:** None
+- **Shield:** None currently
 
 ### Carried Items
-- **Studded Leather Armor** (13 lb)
+- **Chain Shirt** (20 lb)
 - **Longsword** (3 lb)  
 - **Handaxe** (2 lb)
 - **Light Crossbow** (5 lb)
@@ -142,24 +146,64 @@
 - **Crowbar** (5 lb)
 
 ### Carrying Capacity
-**Weight Carried:** 83.5 lb  
+**Weight Carried:** 90.5 lb  
 **Encumbered:** 180 lb  
 **Push/Drag/Lift:** 360 lb  
 
 ### Currency & Resources
 - **Coins:** 25 gp
-- **Trade Goods:** [To be determined based on Saltmere economy]
-- **Reputation Credits:** [To be tracked during campaign]
+- **Trade Goods:** Saltmere island currency - services, repairs, tactical advice
+- **Reputation Credits:** Hero of Saltmere, proven tactical leader, lighthouse mission veteran
 
 ## Character Notes
+
+### Personality & Background
 **Personality:** Pragmatic mercenary with contract-focused mindset  
 **Role:** Strategic protector and practical problem-solver  
-**Relationship with Party:** Tactical leadership, dual-class versatility
+**Military Experience:** Former soldier brings tactical acumen and combat experience
 
-**Background - Soldier:** Military experience provides combat training and leadership skills. Familiar with hierarchy, tactics, and survival in harsh conditions.
+**Relationship with Party:** 
+- **Seraphina:** Strategic alliance, provides tactical protection for family unit
+- **Dragonboy:** Protective mentor figure, helps channel unprecedented abilities
+- **Aleron:** Respects divine magic, complementary combat and healing roles
 
-**Multiclass Considerations:** Fighter provides combat prowess and durability, while Sorcerer adds magical versatility and battlefield control options.
+### Combat Expertise
+- **Tactical Leadership:** Proven ability to coordinate party actions under pressure
+- **Versatile Fighter:** Dual-class provides magical options alongside martial prowess
+- **Mission Specialist:** Successfully completed dangerous lighthouse restoration
+- **Death Experience:** Died and was resurrected during Hunger battle, gained new perspective
+
+### Recent Achievements (Session 002)
+- **Lighthouse Mission:** Led dangerous mission to restore beacon during creature attack
+- **Death and Return:** Experienced death and resurrection mid-battle
+- **Tactical Coordination:** Successfully coordinated attacks on aerial corrupted anchors
+- **Hero Status:** Recognized as key tactical leader in village defense
+
+### Military Background Integration
+- **Soldier Training:** Familiar with hierarchy, tactics, and survival in harsh conditions
+- **Leadership Skills:** Natural commander during crisis situations
+- **Equipment Maintenance:** Understands importance of gear readiness
+- **Strategic Thinking:** Plans several moves ahead in combat
+
+### Multiclass Development
+- **Fighter Foundation:** Provides combat prowess, durability, and weapon expertise
+- **Sorcerer Awakening:** Magical abilities manifesting under extreme stress
+- **Action Surge:** Key tactical advantage for burst damage or utility
+- **Spell Selection:** Focuses on protection and reliable damage
+
+### Current Status
+- **Location:** Salt & Anchor Tavern, Saltmere Island
+- **Condition:** Fully recovered from death experience, equipment maintained
+- **Relationships:** Trusted tactical advisor, proven hero
+- **Goals:** Investigating ancient threats, protecting party and community
+
+### Known Capabilities
+- **Perfect Firebolt:** Demonstrated maximum damage potential
+- **Magic Missile Precision:** Reliable damage distribution
+- **Tactical Coordination:** Proven ability to manage complex multi-target combat
+- **Equipment Mastery:** Expert use of crossbow, handaxe, and sword combinations
 
 ---
-*Last Updated: [Session Date]*  
-*Current Location: Salt & Anchor Tavern, Saltmere Island*
+*Last Updated: Post-Session 002*  
+*Current Location: Salt & Anchor Tavern, Saltmere Island*  
+*Special Notes: Level 2 - Hero of Saltmere, experienced death and resurrection, tactical combat leader*
